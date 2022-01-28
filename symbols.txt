@@ -1,0 +1,3 @@
+MSFT
+GOOG
+AMZN
